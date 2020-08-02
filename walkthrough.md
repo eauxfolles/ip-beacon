@@ -32,4 +32,4 @@ Components
 * Python-Code: 
 > python -m http.server < port >
 
-Source: https://en.wikipedia.org/wiki/Web_beacon
+Source used: https://en.wikipedia.org/wiki/Web_beacon
